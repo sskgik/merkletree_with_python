@@ -1,0 +1,5 @@
+Sample https://alis.to/gaxiiiiiiiiiiii/articles/3dy7vLZn0g89
+これはbitcoinの仕様に合わせたマークルツリーですので
+hash化の工程が少し異なります
+hashアルゴリズムの組み方が少し異なる場合があるので
+実際に算出されるマークルルート が間違っている場合ありますがご容赦ください！
